@@ -15,7 +15,8 @@ public class ClaseInicial {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Hola Netbeans");
+           System.out.println("Nuevo Proyecto Creado");
     }
     
 }
